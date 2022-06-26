@@ -1,11 +1,12 @@
 ### 👋 Hi there, I'm Edward
 -----
 
-🌱 I'm a **Data Analyst - Scientist**, I love to analyze trending, to resolve problems and to create strategies to improve my productivity.
+🌱 I'm a **Data Analyst - Scientist**, 🌱 I love to analyze trending, resolve problems, and create strategies to improve my productivity.
 
-📚 I'm person autodidact and proactive, I love to learn about technology, history, science, business. Furthermore, I consider myself an **eternal student**.
+📚 I'm a person autodidact and proactive, I love to learn about technology, history, science, and business. Furthermore, I consider myself an eternal student.
 
-🌏 I'm very optimistic, determined, analytical, **I love the challenges**. I like the team work and to learn from others
+🌏 I'm very optimistic, determined, and analytical, I love the challenges. I like teamwork and learning from others.
+
 
 ### 🎯Some technologies I use:
 -----
