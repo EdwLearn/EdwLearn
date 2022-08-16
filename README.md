@@ -3,7 +3,7 @@
 
 🌱 I'm a **Data Analyst**, I love to analyze trending, resolve problems, and create strategies to improve my productivity.
 
-📚 I'm a person autodidact and proactive, I love to learn about technology, history, science, and business. Furthermore, I consider myself an eternal student.
+📚 I'm a person autodidact, I love to learn about technology, history, science, and business. Furthermore, I consider myself an eternal student.
 
 🌏 I'm very optimistic, determined, and analytical, I love the challenges. I like teamwork and learning from others.
 
