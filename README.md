@@ -22,7 +22,4 @@ Also, I'm improving my English skills.
 ### 📈Some of my stats are:
 ----
 
-
-<center><img src="https://github-readme-stats.vercel.app/api?username=EdwLearn&show_icons=true&theme=radical"></center>
-
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwLearn#center)
