@@ -14,7 +14,8 @@
 
 ### 🤔Anything else
 -----
-🌱 Now I'm learning Databases(PostgreSQL) and English.
+🌱 Now I'm practicing on [Hakerrank](https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql) SQL.
+Also, I'm improving my English skills.
 
 💬 If you have any questions or think you can help me improve, write me
 
