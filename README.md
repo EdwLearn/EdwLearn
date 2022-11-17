@@ -2,11 +2,17 @@
 <h1 align= 'center'>👋🏽 Hi there, I'm Edward Giraldo 🧮👨🏽‍🔬</h1> 
 
 
-🌱 I'm a **Data Analyst**, I love to analyze trending, resolve problems, and create strategies to improve my productivity.
+🌱 I'm a **Data Analyst** I love to analyze trending, resolve problems and create strategies to improve my productivity.
 
-📚 I'm a person autodidact, I love to learn about technology, history, science, and business. Furthermore, I consider myself an eternal student.
+📚 I'm an autodidact person, I like to learn about technology, history, science and business. Furthermore, I consider myself an eternal student.
 
-🌏 I'm very optimistic, determined, and analytical, I love the challenges. I like teamwork and learning from others.
+🌏 I Think that I'm very optimistic, determined and analytical. I love the challenges ✨
+
+<p align='center'>
+  <a href="https://twitter.com/edwlearn"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/edwlearn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/edwlearn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 ## 🎯Some technologies I use
@@ -23,7 +29,11 @@
 
 ### Data Viz:
 
-![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) 
+![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
+![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) 
+![image](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![image](https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white) 
+
 
 
 ### WorkSpace
@@ -33,14 +43,27 @@
 
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
+### Education:
+
+![image](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)
+![image](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)
+![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+![image](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+
+### Others:
+
+![image](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) 
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
+![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) 
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![image](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white) 
+
+
+
+
+
 ### 🤔Anything else
------
-🌱 Now I'm practicing on [Hakerrank](https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql) SQL.
-Also, I'm improving my English skills.
+
+🌱 Now I'm improving my logical thinking with DAX on POWER BI. Also, I'm improving my English skills.
 
 💬 If you have any questions or think you can help me improve, write me
-
-### 📈Some of my stats are:
-----
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwLearn#center)
