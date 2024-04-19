@@ -64,6 +64,6 @@
 
 ## 🤔Anything else
 
-🌱 Now I'm improving my logical thinking with DAX on POWER BI. Also, I'm improving my English skills.
+🌱 Now I'm Learning about AWS Cloud. Also, I'm improving my English skills.
 
 💬 If you have any questions or think you can help me improve, write me
