@@ -1,5 +1,5 @@
 
-<h1 align= 'center'>👋🏽 Hi there, I'm Edward Giraldo 🧮👨🏽‍🔬</h1> 
+<h1 align= 'center'>👋🏽 Hi there, I'm Eduard Giraldo 🧮👨🏽‍🔬</h1> 
 
 
 🌱 I'm a **Data Analyst** I love to analyze trending, resolve problems and create strategies to improve my productivity.
