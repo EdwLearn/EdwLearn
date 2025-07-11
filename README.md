@@ -1,17 +1,7 @@
 <h1>👋🏽 Hi there, I'm Eduard Giraldo 🧮👨🏽‍🔬</h1>
 
 <div align="center">
-
-### 📊 **Technical Proficiency Dashboard**
-
-![Python](https://img.shields.io/badge/Python-95%25-brightgreen?style=for-the-badge&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-90%25-orange?style=for-the-badge&logo=tensorflow)
-![AWS](https://img.shields.io/badge/AWS-85%25-yellow?style=for-the-badge&logo=amazon-aws)
-
-### 🎯 **Project Success Metrics**
-![Projects](https://img.shields.io/badge/Completed_Projects-15+-blue?style=for-the-badge)
-![Accuracy](https://img.shields.io/badge/Best_Model_Accuracy-87.67%25-green?style=for-the-badge)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+ML+Engineer;Training+Models+with+87.67%25+Accuracy;Building+ETL+Pipelines+on+AWS;Transforming+Data+into+Insights;MLOps+%7C+Computer+Vision+%7C+AI" alt="Typing SVG" />
 </div>
 
 
