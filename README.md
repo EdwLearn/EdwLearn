@@ -1,49 +1,3 @@
-
-
-
-#### Languages:
-
-
-![image
-]( https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
-
-#### Libraries:
-
-
-![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)  ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-
-#### Data Viz:
-
-![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
-![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) 
-![image](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![image](https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white) 
-
-
-
-#### WorkSpace
-![image](https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=Deepnote&logoColor=white) ![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
-
-#### BD
-
-![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-
-#### Education:
-
-![image](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)
-![image](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)
-![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-![image](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-
-#### Others:
-
-![image](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) 
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
-![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) 
-![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-
-
 <h1>👋🏽 Hi there, I'm Eduard Giraldo 🧮👨🏽‍🔬</h1>
 
 <div align="center">
@@ -71,53 +25,53 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
 
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
+Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,r" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,r,js,typescript,html,css" alt="Programming Languages" />
 </div>
-
-### Data Science & Machine Learning
+Data Science & Machine Learning
 <div align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="ML Libraries" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+</div></div>
+MLOps & DevOps
+<div align="left">
+  <img src="https://raw.githubusercontent.com/apache/airflow/main/airflow/www/static/pin_100.png" alt="Apache Airflow" width="40" height="40"/>
+  <img src="https://dvc.org/img/logo-github-readme.png" alt="DVC" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/assets/MLflow-logo-final-black.png" alt="MLflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="ElasticSearch" width="40" height="40"/>
 </div>
-
-### Cloud & DevOps
+Cloud & DevOps
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" alt="Cloud & DevOps" />
 </div>
-
-### Databases & Data Warehousing
+Databases & Data Warehousing
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Databases" />
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Excel" width="40" height="40"/>
 </div>
-
-### Data Visualization & BI
+Data Visualization & BI
 <div align="left">
   <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" />
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" width="40" height="40"/>
 </div>
-
-### Development Tools
+Development Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda,figma" alt="Development Tools" />
 </div>
 
----
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EdwLearn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdwLearn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwLearn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
