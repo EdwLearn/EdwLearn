@@ -5,13 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=whoami;eduard_giraldo:+data_scientist;skills+--list;python+tensorflow+aws+mlops;status;building_intelligent_systems" alt="Typing SVG" />
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=F85D7F&center=true&vCenter=true&width=400&lines=Development+Activity;Heatmap+Loading...;%F0%9F%94%A5+Ready!" alt="Heatmap Intro" />
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EdwLearn&theme=react-dark&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
-
-</div>
 
 
 ## 🚀 About Me
@@ -118,7 +111,7 @@ Development Tools
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F85D7F&center=true&vCenter=true&width=500&lines=Analyzing+Development+Activity...;Loading+Heatmap+Data...;Ready+to+Display+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=20000&pause=1000&color=F85D7F&center=true&vCenter=true&width=500&lines=Analyzing+Development+Activity...;Loading+Heatmap+Data...;Ready+to+Display+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ### 🔥 **Development Activity Heatmap**
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EdwLearn&theme=react-dark&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
