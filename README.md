@@ -1,7 +1,7 @@
 <h1>👋🏽 Hi there, I'm Eduard Giraldo 🧮👨🏽‍🔬</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+ML+Engineer;Model+Accuracy:+87.67%25;Active+Projects:+3+%7C+Completed:+15%2B;Remote+Experience:+USA+%7C+Mexico;Tech+Stack:+Python+%7C+TensorFlow+%7C+AWS" alt="Typing SVV" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=whoami;eduard_giraldo:+data_scientist;skills+--list;python+tensorflow+aws+mlops;status;building_intelligent_systems" alt="Typing SVG" />
 </div>
 
 
