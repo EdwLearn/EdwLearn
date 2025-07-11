@@ -5,6 +5,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=whoami;eduard_giraldo:+data_scientist;skills+--list;python+tensorflow+aws+mlops;status;building_intelligent_systems" alt="Typing SVG" />
 </div>
 
+<div align="center">
+
+### 📊 **Loading Development Analytics...**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=800&pause=200&color=58A6FF&center=true&vCenter=true&width=400&lines=Loading...+25%25;Loading...+50%25;Loading...+75%25;Loading...+100%25+%E2%9C%85;Rendering+Heatmap..." alt="Loading" />
+
+### 🔥 **Development Activity Heatmap**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EdwLearn&theme=react-dark&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
 ## 🚀 About Me
 
 I really enjoy ⭐ everything related to technology 💻, programming 👨‍💻, and I'm passionate about web development.
