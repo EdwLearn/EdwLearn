@@ -2,18 +2,17 @@
 
 <div align="center">
 
-### 🧠 **AI/ML Skill Matrix**
+### 📊 **Technical Proficiency Dashboard**
 
-| Domain | Proficiency | Projects | Impact |
-|--------|-------------|----------|---------|
-| 🤖 **Machine Learning** | ████████████ 95% | 15+ | High |
-| 🧠 **Deep Learning** | ██████████░░ 87% | 8+ | High |
-| ☁️ **Cloud Computing** | ████████░░░░ 78% | 12+ | Medium |
-| 📊 **Data Engineering** | ██████████░░ 85% | 10+ | High |
-| 🔧 **MLOps** | ████████░░░░ 82% | 6+ | Medium |
+![Python](https://img.shields.io/badge/Python-95%25-brightgreen?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-90%25-orange?style=for-the-badge&logo=tensorflow)
+![AWS](https://img.shields.io/badge/AWS-85%25-yellow?style=for-the-badge&logo=amazon-aws)
+
+### 🎯 **Project Success Metrics**
+![Projects](https://img.shields.io/badge/Completed_Projects-15+-blue?style=for-the-badge)
+![Accuracy](https://img.shields.io/badge/Best_Model_Accuracy-87.67%25-green?style=for-the-badge)
 
 </div>
-
 
 
 ## 🚀 About Me
