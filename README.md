@@ -108,6 +108,8 @@ Development Tools
 ## 📈 Activity Graph
 
 <div align="center">
+
+
 ![](https://github-readme-activity-graph.vercel.app/graph?username=EdwLearn&theme=react-dark&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
 
 </div>
