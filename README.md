@@ -104,46 +104,6 @@ Development Tools
 - 🎯 Optimized for **scalability** and **performance**
 - 📈 Enabled **data-driven decision making** for multiple clients
 
----
-
-## 🏆 Professional Experience
-
-### 💼 **Data Engineer** | Allforce | USA
-**April 2025 – July 2025** | *Remote (100% English Environment)*
-
-- 🔧 Developed **ETL pipelines** from AWS S3 to Snowflake
-- 📊 Built **KPI monitoring dashboards** for multiple clients
-- 🎯 Analyzed **digital marketing campaigns** performance
-- 💡 Generated **business ideas** based on data analysis
-
-### 📈 **Data Analyst** | Mas Academy
-**February 2025 – April 2025** | *Remote, Mexico*
-
-- 📊 Evaluated **marketing campaign effectiveness**
-- 🎯 Proposed **optimization strategies** based on data insights
-- 💡 Collaborated in **business idea generation**
-
----
-
-## 🎓 Education & Certifications
-
-### 🎓 **Diploma in Artificial Intelligence and Data Science**
-**Platzi** | 2024
-
-- 🚀 Continuous skill development through practical projects
-- 📚 Technical documentation and community participation
-- 💼 Focus on **real-world applications** and **industry best practices**
-
----
-
-## 🌐 Languages
-
-| Language | Level |
-|----------|-------|
-| 🇪🇸 Spanish | Native |
-| 🇺🇸 English | Advanced Professional (B2) |
-
----
 
 ## 📈 Activity Graph
 
