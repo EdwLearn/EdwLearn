@@ -5,12 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=whoami;eduard_giraldo:+data_scientist;skills+--list;python+tensorflow+aws+mlops;status;building_intelligent_systems" alt="Typing SVG" />
 </div>
 
-<div align="center">
 
-### 🔥 **Development Activity Heatmap**
-![](https://github-readme-streak-stats.herokuapp.com/?user=EdwLearn&theme=dark&background=0D1117&stroke=F85D7F&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true)
-
-</div>
 
 
 ## 🚀 About Me
@@ -75,13 +70,10 @@ Development Tools
 
 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdwLearn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdwLearn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwLearn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+### 🔥 **Development Activity Heatmap**
+![](https://github-readme-streak-stats.herokuapp.com/?user=EdwLearn&theme=dark&background=0D1117&stroke=F85D7F&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true)
+
 </div>
 
 ---
