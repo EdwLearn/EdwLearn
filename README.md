@@ -1,18 +1,5 @@
 
-<h1 align= 'center'>👋🏽 Hi there, I'm Eduard Giraldo 🧮👨🏽‍🔬</h1> 
 
-
-🌱 I'm a **Data Analyst** I love to analyze trending, resolve problems and create strategies to improve my productivity.
-
-📚 I'm an autodidact person, I like to learn about technology, history, science and business. Furthermore, I consider myself an eternal student.
-
-🌏 I Think that I'm very optimistic, determined and analytical. I love the challenges ✨
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/edwlearn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-## 🎯Some technologies I use
 
 #### Languages:
 
@@ -57,16 +44,7 @@
 
 
 
-
-
-## 🤔Anything else
-
-🌱 Now I'm Learning about AWS Cloud. Also, I'm improving my English skills.
-
-💬 If you have any questions or think you can help me improve, write me
-
-
-# Hi there! 👋 I'm Eduard Manuel Giraldo Martínez
+<h1>👋🏽 Hi there, I'm Eduard Giraldo 🧮👨🏽‍🔬</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Building+Intelligent+Systems;Passionate+about+AI+%26+Technology" alt="Typing SVG" />
@@ -95,7 +73,7 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
 
 ### Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,js,typescript,html,css" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,r" alt="Programming Languages" />
 </div>
 
 ### Data Science & Machine Learning
@@ -113,7 +91,7 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
 
 ### Databases & Data Warehousing
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
 </div>
 
@@ -125,7 +103,7 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
 
 ### Development Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda,figma" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda" alt="Development Tools" />
 </div>
 
 ---
