@@ -3,11 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Building+Intelligent+Systems;Passionate+about+AI+%26+Technology" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Building+Intelligent+Systems;Passionate+about+AI+%26+Technology" alt="Typing SVG" />
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -60,14 +55,14 @@ Databases & Data Warehousing
 </div>
 Data Visualization & BI
 <div align="left">
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" />
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" width="40" height="40"/>
 </div>
 Development Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode,anaconda" alt="Development Tools" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "Development Tools />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "Development Tools width="40" height="40"/>
 </div>
 
 📊 GitHub Stats
