@@ -5,6 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=whoami;eduard_giraldo:+data_scientist;skills+--list;python+tensorflow+aws+mlops;status;building_intelligent_systems" alt="Typing SVG" />
 </div>
 
+<div align="center">
+
+### 🔥 **Development Activity Heatmap**
+![](https://github-readme-activity-graph.vercel.app/graph?username=EdwLearn&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&area=true&hide_border=true&custom_title=Activity%20Graph)
+
+</div>
 
 
 ## 🚀 About Me
