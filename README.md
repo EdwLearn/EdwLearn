@@ -7,25 +7,9 @@
 
 <div align="center">
 
-### 🔥 **Interactive Development Heatmap**
-
-<details>
-<summary>📊 Click to reveal activity analysis 👆</summary>
-
-<br>
-
-**Loading activity data...**
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1000&pause=500&color=F85D7F&center=true&vCenter=true&width=300&lines=Fetching+commits...;Analyzing+patterns...;Ready+%F0%9F%9A%80" alt="Loading" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=F85D7F&center=true&vCenter=true&width=400&lines=Development+Activity;Heatmap+Loading...;%F0%9F%94%A5+Ready!" alt="Heatmap Intro" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EdwLearn&theme=react-dark&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
-
-**🎯 Key insights:**
-- Most productive hours: 2-6 PM
-- Favorite coding day: Thursday  
-- Longest streak: 25+ days
-- Current momentum: High 🔥
-
-</details>
 
 </div>
 
