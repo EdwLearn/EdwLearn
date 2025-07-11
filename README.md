@@ -2,13 +2,15 @@
 
 <div align="center">
 
-### 💻 **Technical Proficiency Analysis**
+### 🧠 **AI/ML Skill Matrix**
 
-![Python](https://img.shields.io/badge/Python-95%25-brightgreen?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-90%25-orange?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)
-![AWS](https://img.shields.io/badge/AWS-85%25-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900)
-![SQL](https://img.shields.io/badge/SQL-88%25-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)
-![MLOps](https://img.shields.io/badge/MLOps-82%25-purple?style=for-the-badge&logo=git&logoColor=white&labelColor=512BD4)
+| Domain | Proficiency | Projects | Impact |
+|--------|-------------|----------|---------|
+| 🤖 **Machine Learning** | ████████████ 95% | 15+ | High |
+| 🧠 **Deep Learning** | ██████████░░ 87% | 8+ | High |
+| ☁️ **Cloud Computing** | ████████░░░░ 78% | 12+ | Medium |
+| 📊 **Data Engineering** | ██████████░░ 85% | 10+ | High |
+| 🔧 **MLOps** | ████████░░░░ 82% | 6+ | Medium |
 
 </div>
 
