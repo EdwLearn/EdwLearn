@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I really enjoy ⭐ everything related to technology 💻, programming 👨‍💻, and I'm passionate about web development.
+I really enjoy ⭐ everything related to technology 💻, programming 👨‍💻, and I'm passionate about build Models
 
 🌱 Trying to become a better person every day.  
 🏆 I enjoy personal development and productivity.  
