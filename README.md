@@ -1,7 +1,15 @@
 <h1>👋🏽 Hi there, I'm Eduard Giraldo 🧮👨🏽‍🔬</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=📊+Data+Scientist+%7C+ML+Engineer;🧠+Training+Models+with+87.67%25+Accuracy;☁️+Building+ETL+Pipelines+on+AWS;🔬+Transforming+Data+into+Insights;🚀+MLOps+%7C+Computer+Vision+%7C+AI" alt="Typing SVG" />
+
+### 💻 **Technical Proficiency Analysis**
+
+![Python](https://img.shields.io/badge/Python-95%25-brightgreen?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-90%25-orange?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)
+![AWS](https://img.shields.io/badge/AWS-85%25-yellow?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900)
+![SQL](https://img.shields.io/badge/SQL-88%25-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)
+![MLOps](https://img.shields.io/badge/MLOps-82%25-purple?style=for-the-badge&logo=git&logoColor=white&labelColor=512BD4)
+
 </div>
 
 
