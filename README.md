@@ -27,7 +27,7 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
 
 Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,js,typescript,html,css" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,r" alt="Programming Languages" />
 </div>
 Data Science & Machine Learning
 <div align="left">
@@ -50,7 +50,7 @@ Cloud & DevOps
 </div>
 Databases & Data Warehousing
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Excel" width="40" height="40"/>
 </div>
@@ -62,7 +62,7 @@ Data Visualization & BI
 </div>
 Development Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda,figma" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter,anaconda" alt="Development Tools" />
 </div>
 
 📊 GitHub Stats
