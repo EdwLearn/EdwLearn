@@ -8,7 +8,7 @@
 <div align="center">
 
 ### 🔥 **Development Activity Heatmap**
-![](https://github-readme-activity-graph.vercel.app/graph?username=EdwLearn&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&area=true&hide_border=true&custom_title=Activity%20Graph)
+![](https://github-readme-streak-stats.herokuapp.com/?user=EdwLearn&theme=dark&background=0D1117&stroke=F85D7F&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true)
 
 </div>
 
