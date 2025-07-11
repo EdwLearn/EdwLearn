@@ -7,9 +7,7 @@
 
 <div align="center">
 
-### 📊 **Loading Development Analytics...**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=800&pause=200&color=58A6FF&center=true&vCenter=true&width=400&lines=Loading...+25%25;Loading...+50%25;Loading...+75%25;Loading...+100%25+%E2%9C%85;Rendering+Heatmap..." alt="Loading" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=800&color=F85D7F&center=true&vCenter=true&width=600&lines=Commits+this+year:+150%2B;Most+active+day:+Thursday;Longest+streak:+25+days;Current+streak:+12+days" alt="Stats" />
 
 ### 🔥 **Development Activity Heatmap**
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EdwLearn&theme=react-dark&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
