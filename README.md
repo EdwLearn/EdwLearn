@@ -26,11 +26,11 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
 
 ## 🛠️ Technologies & Tools
 
-[Programming Languages]: 
+[Programming Languages]: #
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,r" alt="Programming Languages" />
 </div>
-[Data Science & Machine Learning]:
+[Data Science & Machine Learning]: #
 <div align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="ML Libraries" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -38,30 +38,30 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
 </div></div>
-[MLOps & DevOps]:
+[MLOps & DevOps]: #
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="40" height="40"/>
   <img src="https://dvc.org/img/logo-github-readme.png" alt="DVC" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" alt="MLflow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="ElasticSearch" width="40" height="40"/>
 </div>
-[Cloud & DevOps]:
+[Cloud & DevOps]: #
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" alt="Cloud & DevOps" />
 </div>
-[Databases & Data Warehousing]:
+[Databases & Data Warehousing]: #
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Excel" width="40" height="40"/>
 </div>
-[Data Visualization & BI]:
+[Data Visualization & BI]: #
 <div align="left">
   <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" width="40" height="40"/>
 </div>
-[Development Tools]:
+[Development Tools]: #
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode,anaconda" alt="Development Tools" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "Development Tools width="40" height="40"/>
