@@ -97,6 +97,7 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=200000&pause=10000&color=F85D7F&center=true&vCenter=true&width=500&lines=Analyzing+Development+Activity...;Loading+Heatmap+Data...;Ready+to+Display+%F0%9F%94%A5)](https://git.io/typing-svg)
 
+
 ### 🔥 **Development Activity Heatmap**
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EdwLearn&theme=react-dark&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
 
