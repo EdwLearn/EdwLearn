@@ -128,5 +128,4 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
 <div align="center">
   
   **"Building intelligent systems that make a difference"** 🚀
-  
 </div>
