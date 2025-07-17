@@ -57,10 +57,10 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
 
 <div align="center">
 
-### 🔥 **Development Activity Heatmap**
-![](https://github-readme-streak-stats.herokuapp.com/?user=EdwLearn&theme=dark&background=0D1117&stroke=F85D7F&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true)
+# ### 🔥 **Development Activity Heatmap**
+# ![](https://github-readme-streak-stats.herokuapp.com/?user=EdwLearn&theme=dark&background=0D1117&stroke=F85D7F&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true)
 
-</div>
+# </div>
 
 ---
 
