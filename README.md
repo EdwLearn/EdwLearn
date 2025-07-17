@@ -55,12 +55,6 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt = "Development Tools width="40" height="40"/>
 </div>
 
-<div align="center">
-
-# ### 🔥 **Development Activity Heatmap**
-# ![](https://github-readme-streak-stats.herokuapp.com/?user=EdwLearn&theme=dark&background=0D1117&stroke=F85D7F&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&hide_border=true)
-
-# </div>
 
 ---
 
