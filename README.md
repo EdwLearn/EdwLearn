@@ -105,6 +105,14 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
 ---
 
 <div align="center">
+  <h2>🐍 Mis Contribuciones 🐍</h2>
+  <br>
+  <img src="https://raw.githubusercontent.com/EdwLearn/EdwLearn/output/snake.svg" alt="Snake animation" />
+  
+  <br/><br/><br/>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=EdwLearn&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
