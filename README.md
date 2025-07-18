@@ -68,13 +68,13 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
 - 🔍 Comprehensive **error analysis** and production-ready inference
 - 📊 End-to-end ML system from data preprocessing to deployment
 
-### 👥 Customer Personality Analysis (Clustering)
+### 👥 AWS Serverless Document Proccessing
 **Technologies:** `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
 
-- 🎯 Applied **K-Means clustering** for customer segmentation
-- 📈 Comprehensive **EDA** and data preprocessing
-- 💡 Translated results into actionable **customer personas**
-- 🎨 Beautiful data visualizations and insights
+- ⚡ 300% faster processing with AWS Lambda + Textract
+- 🏗️ Infrastructure as Code (IaC) with AWS CDK
+- 🔄 Automated retry logic and error handling
+- 📈 RESTful API endpoints with FastAPI
 
 ### 🔧 ETL Data Pipeline (AWS → Snowflake)
 **Technologies:** `AWS S3` `Snowflake` `Apache Airflow` `Python` `SQL`
