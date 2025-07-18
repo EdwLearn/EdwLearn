@@ -68,7 +68,7 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
 - 🔍 Comprehensive **error analysis** and production-ready inference
 - 📊 End-to-end ML system from data preprocessing to deployment
 
-### 👥 AWS Serverless Document Proccessing
+### 👥 [AWS Serverless Document Proccessing](https://github.com/EdwLearn/aws-document-processing)
 **Technologies:** `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
 
 - ⚡ 300% faster processing with AWS Lambda + Textract
