@@ -107,7 +107,7 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
 ---
 
 <div align="center">
-  <h2>🐍 Mis Contribuciones 🐍</h2>
+  <h2>🐍My Contributions🐍</h2>
   <br>
   <img src="https://raw.githubusercontent.com/EdwLearn/EdwLearn/output/snake-dark.svg" alt="Snake animation" />
   
