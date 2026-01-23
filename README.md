@@ -118,95 +118,106 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
 
 
 
-# 👋 Hi, I'm Eduard Giraldo
+<h1>👋🏽 Hi there, I'm Eduard Giraldo 👨🏽‍💻☁️</h1>
 
-**Software Engineer (Backend / Cloud)**  
-Building production-ready backend systems and cloud solutions on AWS.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=whoami;eduard_giraldo:+Software+Engineer;focus+--backend+cloud;python+fastapi+aws;status;Building+Production;Backend+Systems" alt="Typing SVG" />
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a software engineer focused on **backend development and cloud engineering**, with experience building APIs, data pipelines, and scalable systems deployed on AWS.
+I enjoy building **backend systems and cloud-based applications** that solve real business problems and run reliably in production.
 
-I work on taking solutions to **production**, prioritizing reliability, cost efficiency, and maintainability. I integrate applied AI only when it provides real business value.
+I'm focused on **backend development and cloud engineering**, working with APIs, data pipelines, and AWS infrastructure. I integrate applied AI only when it adds real value to the system.
 
-- 💻 Backend development with Python and FastAPI  
-- ☁️ Cloud deployments on AWS (EC2, S3, IAM, Lambda)  
-- 🔄 Data pipelines and ETL systems  
-- 🧠 Applied AI integrated into backend systems (secondary)
+🌱 Constantly improving as an engineer and as a person.  
+👥 I enjoy working in teams and collaborating on real-world systems.
 
-📍 Medellín, Colombia  
-📫 Contact: **eduard.trabajo2024@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-**Backend & Software Engineering**
-- Python
-- FastAPI
-- REST APIs
-- SQL
-- Git
-
-**Cloud (AWS)**
-- EC2
-- S3
-- IAM
-- Lambda (basic)
-- CloudWatch
-
-**Data & Applied AI (Secondary)**
-- ETL pipelines
-- LLM integration via APIs
-- Computer Vision (applied use cases)
-
-**Tools**
-- Docker
-- Airflow
-- PostgreSQL
+- 🔭 Backend APIs and automation systems deployed on AWS
+- ☁️ Cloud infrastructure using AWS (EC2, S3, IAM, Lambda)
+- 🔄 Data pipelines and ETL systems for production use
+- 🎯 Production-ready software focused on scalability and maintainability
+- 📫 How to reach me: **eduard.trabajo2024@gmail.com**
+- 📍 Based in **Medellín, Colombia**
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Technologies & Tools
 
-### 🔹 Backend API for Document Processing (AWS)
-**Stack:** Python, FastAPI, AWS EC2, S3, IAM
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Programming Languages" />
 
-- Designed and developed backend APIs to automate document and image processing.
-- Deployed on AWS with focus on reliability, error handling, and cost control.
-- Reduced operational processing time by **87%**.
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="Backend Frameworks" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 
-🔗 https://github.com/EdwLearn/aws-document-processing
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" alt="Cloud & DevOps" />
 
----
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
 
-### 🔹 Serverless Document Processing System (AWS)
-**Stack:** Python, AWS Lambda, Textract, FastAPI
-
-- Built a serverless backend pipeline using AWS Lambda and Textract.
-- Implemented retry logic, monitoring, and RESTful API endpoints.
-- Optimized processing speed and scalability.
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Development Tools" />
+</div>
 
 ---
 
-### 🔹 ETL Data Pipeline (AWS → Snowflake)
-**Stack:** AWS S3, Python, SQL, Airflow, Snowflake
+## 🎯 Featured Projects
 
-- Built robust ETL pipelines ensuring data integrity and availability.
-- Automated data quality checks and transformations.
-- Supported production analytics and downstream systems.
+### 📄 [Backend Document Processing System (AWS)](https://github.com/EdwLearn/aws-document-processing)
+**Technologies:** `Python` `FastAPI` `AWS EC2` `AWS S3` `AWS IAM`
+
+- 🚀 Backend APIs for document and image processing automation
+- ☁️ Deployed on AWS with focus on reliability and cost control
+- 🔄 Error handling, retries, and production-ready logging
+- 📉 Achieved **87% reduction in operational processing time**
+
+---
+
+### ⚡ [Serverless Document Processing Pipeline](https://github.com/EdwLearn/aws-document-processing)
+**Technologies:** `Python` `AWS Lambda` `Textract` `FastAPI`
+
+- 🏗️ Serverless backend architecture using AWS Lambda
+- 🔄 Automated retries and failure handling
+- 📈 RESTful API endpoints for system integration
+- ⚡ Optimized for scalability and performance
+
+---
+
+### 🔧 ETL Data Pipeline (AWS → Snowflake)
+**Technologies:** `AWS S3` `Python` `SQL` `Apache Airflow` `Snowflake`
+
+- 🔄 Built robust ETL pipelines ensuring data integrity
+- 📊 Automated data cleaning and transformation
+- 🎯 Designed for production scalability
+- 📈 Enabled data consumption for downstream systems
 
 ---
 
 ## 🤝 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/edwlearn  
-- 💻 GitHub: https://github.com/EdwLearn  
-- 📧 Email: eduard.trabajo2024@gmail.com
+<div align="center">
+  <a href="https://linkedin.com/in/edwlearn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:eduard.trabajo2024@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/EdwLearn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-> *“I build backend and cloud systems that work in production.”*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EdwLearn&style=for-the-badge&color=blue" alt="Profile Views" />
+</div>
+
+<div align="center">
+  
+  **"Building backend and cloud systems that work in production."**
+</div>
+
 
