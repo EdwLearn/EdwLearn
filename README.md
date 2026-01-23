@@ -115,3 +115,98 @@ I really enjoy ⭐ everything related to technology 💻, programming 👨‍�
   
   **"Building intelligent systems that make a difference"** 🚀
 </div>
+
+
+
+# 👋 Hi, I'm Eduard Giraldo
+
+**Software Engineer (Backend / Cloud)**  
+Building production-ready backend systems and cloud solutions on AWS.
+
+---
+
+## 🚀 About Me
+
+I'm a software engineer focused on **backend development and cloud engineering**, with experience building APIs, data pipelines, and scalable systems deployed on AWS.
+
+I work on taking solutions to **production**, prioritizing reliability, cost efficiency, and maintainability. I integrate applied AI only when it provides real business value.
+
+- 💻 Backend development with Python and FastAPI  
+- ☁️ Cloud deployments on AWS (EC2, S3, IAM, Lambda)  
+- 🔄 Data pipelines and ETL systems  
+- 🧠 Applied AI integrated into backend systems (secondary)
+
+📍 Medellín, Colombia  
+📫 Contact: **eduard.trabajo2024@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend & Software Engineering**
+- Python
+- FastAPI
+- REST APIs
+- SQL
+- Git
+
+**Cloud (AWS)**
+- EC2
+- S3
+- IAM
+- Lambda (basic)
+- CloudWatch
+
+**Data & Applied AI (Secondary)**
+- ETL pipelines
+- LLM integration via APIs
+- Computer Vision (applied use cases)
+
+**Tools**
+- Docker
+- Airflow
+- PostgreSQL
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Backend API for Document Processing (AWS)
+**Stack:** Python, FastAPI, AWS EC2, S3, IAM
+
+- Designed and developed backend APIs to automate document and image processing.
+- Deployed on AWS with focus on reliability, error handling, and cost control.
+- Reduced operational processing time by **87%**.
+
+🔗 https://github.com/EdwLearn/aws-document-processing
+
+---
+
+### 🔹 Serverless Document Processing System (AWS)
+**Stack:** Python, AWS Lambda, Textract, FastAPI
+
+- Built a serverless backend pipeline using AWS Lambda and Textract.
+- Implemented retry logic, monitoring, and RESTful API endpoints.
+- Optimized processing speed and scalability.
+
+---
+
+### 🔹 ETL Data Pipeline (AWS → Snowflake)
+**Stack:** AWS S3, Python, SQL, Airflow, Snowflake
+
+- Built robust ETL pipelines ensuring data integrity and availability.
+- Automated data quality checks and transformations.
+- Supported production analytics and downstream systems.
+
+---
+
+## 🤝 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/edwlearn  
+- 💻 GitHub: https://github.com/EdwLearn  
+- 📧 Email: eduard.trabajo2024@gmail.com
+
+---
+
+> *“I build backend and cloud systems that work in production.”*
+
