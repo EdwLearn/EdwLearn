@@ -39,6 +39,9 @@ I'm focused on **backend development and cloud engineering**, working with APIs,
   <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
 
   <img src="https://skillicons.dev/icons?i=vscode" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="ML Frameworks" />
+  <img src="https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
